@@ -3,6 +3,7 @@
 Game scorer in Python that leverages OpenAI's GPT to keep track of players' score
 
 ![License](https://img.shields.io/github/license/grnarayanan/game-scorer.svg)
+![GitHub issues](https://img.shields.io/github/issues/grnarayanan/game-scorer)
 
 ## Overview
 
